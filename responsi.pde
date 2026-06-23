@@ -22,9 +22,6 @@ boolean[] connected = new boolean[9];
 int nextDotIndex = 0;
 boolean isFinished = false;
 
-// Cascade default diganti ke palm.xml karena deteksinya jauh lebih stabil
-//String activeCascade = ;
-
 void setup() {
   size(640, 480);
   
@@ -148,4 +145,5 @@ void keyPressed() {
     for (int i = 0; i < connected.length; i++) {
       connected[i] = false;
     }
+}
 }
