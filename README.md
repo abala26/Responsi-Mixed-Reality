@@ -4,6 +4,9 @@ Aplikasi **Augmented Reality (AR) Number 2 Tracer** adalah proyek interaktif ber
 
 Proyek ini dibuat dengan kode yang minimalis dan terstruktur, menggunakan logika dasar OpenCV yang disesuaikan dengan materi praktikum Mixed Reality.
 
+Demo: 
+https://github.com/user-attachments/assets/f1dbbed3-4826-47b7-87f4-996f5078035a
+
 ---
 
 ## 📸 Fitur Utama
