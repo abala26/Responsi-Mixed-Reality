@@ -6,6 +6,7 @@ Proyek ini dibuat dengan kode yang minimalis dan terstruktur, menggunakan logika
 
 Demo: 
 https://github.com/user-attachments/assets/f1dbbed3-4826-47b7-87f4-996f5078035a
+<img width="1920" height="1080" alt="demo_mixedreality" src="https://github.com/user-attachments/assets/7a39ac57-ff45-4929-b288-a0f0c8c4e944" />
 
 ---
 
