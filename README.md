@@ -8,6 +8,7 @@ Demo:
 https://github.com/user-attachments/assets/f1dbbed3-4826-47b7-87f4-996f5078035a
 <img width="1920" height="1080" alt="demo_mixedreality" src="https://github.com/user-attachments/assets/7a39ac57-ff45-4929-b288-a0f0c8c4e944" />
 
+>マンゴー・マンボー No.2で行こう甘い甘いフルーツのリズムリップクリームなんて捨てて本気のルージュ引きたい背伸びをしてAH- CHA CHA CHA
 ---
 
 ## 📸 Fitur Utama
